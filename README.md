@@ -1,2 +1,9 @@
-# k8s-blue-green-deployment
-Blue-Green Deployement demo
+# Blue-Green Deployement demo
+
+## Components
+
+# Git Server
+# Docker Registry(Harbor)
+# CI/CD(Jenkins)
+
+
