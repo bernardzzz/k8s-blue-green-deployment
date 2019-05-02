@@ -2,8 +2,6 @@
 
 ## Components
 
-# Git Server
-# Docker Registry(Harbor)
-# CI/CD(Jenkins)
-
-
+# Git Server(Github)
+# Docker Registry(Docker Hub)
+# CI/CD(Jenkins X + Istio + Spinnaker)
